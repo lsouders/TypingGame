@@ -1,0 +1,7 @@
+RANDOM NOTES
+
+COMPLETED   
+-Break down input string from text file into a hashtable of indexed single word strings
+-Generate a random string built from words in the original input text file. String can be of any desired length, some
+code will need to be changed though.
+-Can print out any hashtable of indexed strings (formatted in the way that mine currently are)
