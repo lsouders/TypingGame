@@ -5,3 +5,4 @@ COMPLETED
 -Generate a random string built from words in the original input text file. String can be of any desired length, some
 code will need to be changed though.
 -Can print out any hashtable of indexed strings (formatted in the way that mine currently are)
+-now able to type in a string and record how long it take to type that string in
